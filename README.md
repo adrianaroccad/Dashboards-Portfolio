@@ -6,7 +6,7 @@ This repository contains a collection of interactive dashboards created using Po
 
 ### Fashion Sales Analysis
 
-![Fashion Sales Analysis](./Power-BI/Fashion-Sales-Analysis.png)
+![Fashion Sales Analysis](./Power BI/Fashion-Sales-Analysis.png)
 
 This dashboard analyzes consumer behavior and product performance in a fashion retail context. It includes:
 
